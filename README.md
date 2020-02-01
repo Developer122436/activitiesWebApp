@@ -2,7 +2,7 @@
 
 https://activitieswebapp.azurewebsites.net/
 
-The site was developed using the ASP.NET Core WebApi platform through the use of typescript, react-hooks and Bootstrap on the client side and using C#, MVC and Entity Framework on the server side.
+Web API application project, developed by VS Code, HTML5, CSS3, React-Hooks, TypeScript, Semantic-UI, MVC & C# on .Net Core platform through REST.
 
 Home Page:
 
