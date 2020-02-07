@@ -4,6 +4,8 @@ https://activitieswebapp.azurewebsites.net/
 
 Web API application project, developed by VS Code, HTML5, CSS3, React-Hooks, TypeScript, Semantic-UI, MVC & C# on .Net Core platform through REST.
 
+USER:bob@test.com PASSWORD:Pa$$w0rd
+
 Home Page:
 
 ![3](https://user-images.githubusercontent.com/55385057/67158427-8701a800-f340-11e9-8d28-aa520120ae20.JPG)
