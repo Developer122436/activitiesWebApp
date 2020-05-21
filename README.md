@@ -1,7 +1,5 @@
 # Activities-Project
 
-https://activitieswebapp.azurewebsites.net/
-
 Web API application project, developed by VS Code, HTML5, CSS3, React-Hooks, TypeScript, Semantic-UI, MVC & C# on .Net Core platform through REST.
 
 USER:bob@test.com PASSWORD:Pa$$w0rd
