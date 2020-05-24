@@ -1,6 +1,10 @@
 # Activities-Project
 
-Developed through web courses in degree & internet web app from scratch, Worked on front-end and back-end in this project, Developed using .Net Core Web API, Azure, VS Code, React-Hooks, TypeScript, REST, MSSQL and more.
+Developed through web courses in degree & internet web app from scratch, Worked on front-end and back-end in this project.
+
+Technologies:
+
+.Net Core Web API, Azure, VS Code, React-Hooks, TypeScript, REST, MSSQL and more.
 
 To view the system , access the web app with the following user email and password:
 
