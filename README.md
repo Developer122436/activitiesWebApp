@@ -1,6 +1,6 @@
 # Activities-Project
 
-Web API application project, developed by VS Code, HTML5, CSS3, React-Hooks, TypeScript, Semantic-UI, MVC & C# on .Net Core platform through REST.
+Developed through web courses in degree & internet web app from scratch, Worked on front-end and back-end in this project, Developed using .Net Core Web API, Azure, VS Code, React-Hooks, TypeScript, REST, MSSQL and more.
 
 USER:bob@test.com PASSWORD:Pa$$w0rd
 
