@@ -2,7 +2,10 @@
 
 Developed through web courses in degree & internet web app from scratch, Worked on front-end and back-end in this project, Developed using .Net Core Web API, Azure, VS Code, React-Hooks, TypeScript, REST, MSSQL and more.
 
-USER:bob@test.com PASSWORD:Pa$$w0rd
+To view the system , access the website with the following user email and password:
+
+* User: bob@test.com 
+* Password: Pa$$w0rd
 
 Home Page:
 
