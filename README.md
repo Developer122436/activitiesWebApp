@@ -6,7 +6,7 @@ Technologies:
 
 .Net Core Web API, Azure, VS Code, React-Hooks, TypeScript, REST, MSSQL and more.
 
-To view the system , access the web app with the following user email and password:
+To view the system, access the web app with the following user email and password:
 
 * User: bob@test.com 
 * Password: Pa$$w0rd
