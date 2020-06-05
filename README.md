@@ -1,6 +1,6 @@
 # Activities-Project
 
-Developed through web courses in degree & internet web app from scratch, Worked on front-end and back-end in this project.
+Activities web app is a CRUD responsive information system that was build through web courses in degree & internet from scratch, with login and register option(.Net Core Web API MVC native), allows users to save/edit/delete their activities like name, date place and more, they can also add comments to other activities.
 
 Technologies (Worked on front-end and back-end in this project):
 
