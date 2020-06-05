@@ -2,7 +2,7 @@
 
 Developed through web courses in degree & internet web app from scratch, Worked on front-end and back-end in this project.
 
-Technologies:
+Technologies (Worked on front-end and back-end in this project):
 
 .Net Core Web API, Azure, VS Code, React-Hooks, TypeScript, REST, MSSQL and more.
 
