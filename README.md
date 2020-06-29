@@ -4,7 +4,7 @@ Activities web app is a CRUD responsive information system that was build throug
 
 Technologies (Worked on front-end and back-end in this project):
 
-.Net Core Web API, Azure, VS Code, React-Hooks, TypeScript, REST, MSSQL and more.
+.Net Core Web API, VS Code, React-Hooks, TypeScript, REST API, JWT, MSSQL, MediatR, CRUD, MVC, Dependency Injection, EF Core and more.
 
 To view the system, access the web app with the following user email and password:
 
