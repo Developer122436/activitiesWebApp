@@ -1,6 +1,6 @@
 # Activities-Project
 
-Activities web app is a CRUD responsive information system that was build through web courses in udemy from scratch, with login and register option(.Net Core Web API MVC native), allows users to save/edit/delete their activities like name, date place and more, they can also add comments to other activities.
+Activities web app is a CRUD responsive information system that was build through web courses from scratch, with login and register option(.Net Core Web API MVC native), allows users to save/edit/delete their activities like name, date place and more, they can also add comments to other activities.
 
 Technologies (Worked on front-end and back-end in this project):
 
